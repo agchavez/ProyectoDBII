@@ -1,0 +1,16 @@
+{
+  "name": "tmdb-ssql",
+  "version": "1.0.0",
+  "description": "Poblar base de datos en sql server con datos de la api themoviedb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "agchavez@unah.hn",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "faker": "^5.5.3",
+    "mssql": "^6.3.1"
+  }
+}
